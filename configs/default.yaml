@@ -1,0 +1,8 @@
+project:
+  name: fractal-alpha
+
+logging:
+  level: INFO
+
+data:
+  input_path: data/raw/market_data.csv
